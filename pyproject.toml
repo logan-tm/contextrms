@@ -1,7 +1,10 @@
 [project]
 name = "contextrms"
 version = "0.1.0"
-description = "Add your description here"
+description = "A CLI for managing multiple contexts."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
+
+[project.scripts]
+contextrms = "contextrms.cli:cli"
