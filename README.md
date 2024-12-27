@@ -49,7 +49,9 @@ Examples:
 * **A broom closet repurposed into a server room.** The place is the same, but the environment has changed.
 * **AWS production environment vs AWS development environment.** Same machine configuration (mostly), different use cases.
 ## Obligations
+TODO
 ## Formulas
+TODO
 ## Places
 *A location (whether physical, metaphysical or digital) where individuals may interact, operate or congregate.*
 Examples:
@@ -57,4 +59,6 @@ Examples:
 * **The company building.** Where one might interact with coworkers.
 * **Facebook.** Though it's not a physical location, one might say "add me on Facebook" to a friend, insinuating a shared "place" to interact with one another.
 ## Items
+TODO
 ## Events
+TODO
